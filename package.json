@@ -4,7 +4,7 @@
   "description": "DropSync eBay backend — OAuth + listing management",
   "main": "api/ebay.js",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "scripts": {
     "dev": "vercel dev"
